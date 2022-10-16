@@ -1,4 +1,4 @@
-#Check the Deployed Project https://master--my-simple-meme-generator.netlify.app/
+# Check the Deployed Project https://master--my-simple-meme-generator.netlify.app/
 
 # Getting Started with Create React App
 
