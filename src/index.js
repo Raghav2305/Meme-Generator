@@ -9,6 +9,7 @@ root.render(
   <React.StrictMode>
     <Header />
     <Meme />
+    
   </React.StrictMode>
 );
 
